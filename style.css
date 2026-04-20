@@ -99,14 +99,9 @@ video {min-width: 100%;
 
 @media(max-width: 810px) {
   
-    button {
-    color : rgb(3, 5, 4);
-    background-color: rgb(255, 255, 255);
-    width : 100px;
-    height : 50px;
- 
+    
 
-}
+
 }
  
   
