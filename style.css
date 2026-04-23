@@ -32,7 +32,7 @@ body {
 
 #a1 {   font-size:200%; 
     color : rgb(0, 0, 0);
-    transition : font-size 1s;
+
     background-color: rgb(255, 255, 255);
     width:100%;
     min-height : 300px;
